@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "George Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "toppings": [
+    { "id": 1, "name": "Pepperoni" },
+    { "id": 2, "name": "Mushrooms" },
+    { "id": 3, "name": "Pineapple" },
+    { "id": 4, "name": "Ham" },
+    { "id": 5, "name": "Olives" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sizes": [
+    { "id": 1, "name": "Personal", "size": 7 },
+    { "id": 2, "name": "Medium", "size": 10 },
+    { "id": 3, "name": "Large", "size":14 };
+  ]
 }
