@@ -12,6 +12,6 @@
     { "id": 3, "name": "Large", "size":14 }
   ],
   "orders": [
-    { "id": 1, "size": 7, "toppings": ["ham","mushrooms"], "customer": "George"}
+    { "id": 1, "size": 7, "toppings": "ham", "customer": "George"}
   ]
 }
